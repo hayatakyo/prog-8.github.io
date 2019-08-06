@@ -37,7 +37,7 @@ header{
 .top-wrapper{
   width:1480px;
   height:911.5px;
-  background-image:url('cat_img/header.png');
+  background-image:url('header.png');
 }
 .top-wrapper h1{
   font-size:120px;
@@ -143,7 +143,7 @@ header{
   padding-top:50.5px;
 }
 .bottom-wrapper{
-  background-image:url('cat_image/cat7.png');
+  background-image:url('cat7.png');
   clear:both;
   width:1480px;
   height:950px;
