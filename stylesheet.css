@@ -37,7 +37,7 @@ header{
 .top-wrapper{
   width:1480px;
   height:911.5px;
-  background-image:url('../cat_img/header.png');
+  background-image:url('cat_img/header.png');
 }
 .top-wrapper h1{
   font-size:120px;
